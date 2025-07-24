@@ -1,7 +1,6 @@
 # Java Simple Practice Projects
 
 These are some simple Java projects I built during my **1st Semester** as practice exercises to strengthen my basic knowledge of Java programming.
-These are some simple Java projects I built during my **1st Semester** as practice exercises to strengthen my basic knowledge of Java programming.
 
 ##  Projects List
 
